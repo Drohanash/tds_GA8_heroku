@@ -2,7 +2,7 @@ import streamlit as st
 
 st.write("""
 Multiplication of two numbers.
-This app takes two numbres as input,  and shows their product as the output.
+This app takes two numbers as input,  and shows their product as the output.
 """)
 
 st.header('Input Numbers :')
